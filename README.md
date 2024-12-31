@@ -1,120 +1,103 @@
-my profile
-
-![Cybersecurity Hero](https://res.cloudinary.com/people-matters/image/upload/fl_immutable_cache,w_624,h_351,q_auto,f_auto/v1591634442/1591634440.jpg)  
-
-## 🌐 About Me  
-Hi there! 👋 I'm **Sneha KM**, a **Certified Ethical Hacker (CEH)** and **OSCP**-certified **Penetration Tester**. My mission is simple: **Secure the Web, One Vulnerability at a Time**.  
-
-With an eye for spotting **weaknesses** and a passion for **problem-solving**, I specialize in ethical hacking, **vulnerability assessments**, and **penetration testing**. I believe that each line of code and every system should be as secure as possible, and I'm here to help achieve that.  
-
-🛡️ I combine technical expertise, **creativity**, and **hands-on experience** to uncover and address security flaws in **web apps**, **mobile apps**, **networks**, and **IoT** devices.
-
----
-
-## 🔧 **Core Skills & Tools**  
-🖥️ **Penetration Testing**: Web Apps, Networks, Mobile, IoT  
-🛠️ **Security Tools**:  
-- **Burp Suite**  
-- **Metasploit**  
-- **Nmap**  
-- **Wireshark**  
-- **Nikto**  
-- **OWASP ZAP**
-
-🎯 **Languages**:  
-- **Python**  
-- **Bash**  
-- **PowerShell**  
-- **JavaScript**
-
-🌍 **Methodologies**:  
-- **OWASP Top 10**  
-- **Vulnerability Scanning**: Nessus, Nexpose  
-- **Exploit Development**: Reverse Engineering, Buffer Overflow  
-- **Red Teaming & Social Engineering**
-
----
-
-## 🌟 **Highlighted Projects**  
-
-### 1️⃣ **Web Application Penetration Testing**
-![Web App Testing](path/to/your/webapp-image.jpg)  
-**Project**: eCommerce Platform Penetration Test  
-- **Tools Used**: Burp Suite, OWASP ZAP, Nikto  
-- **Objective**: To identify security flaws in an online store.  
-- **Key Findings**: Cross-Site Scripting (XSS), SQL Injection, and weak session handling.  
-- **Outcome**: Recommendations for **input validation**, **secure authentication**, and **error handling** to protect user data.  
-- **🔍 [View Full Report](#)**
-
----
-
-### 2️⃣ **Network Penetration Testing**  
-![Network Testing](path/to/your/network-image.jpg)  
-**Project**: Small Business Network Security Audit  
-- **Tools Used**: Nmap, Metasploit, Wireshark  
-- **Objective**: Scan for network vulnerabilities and perform an internal and external attack simulation.  
-- **Key Findings**: Unpatched services, weak password policies, exposed sensitive data.  
-- **Outcome**: Hardened firewall settings, **VPN setup**, and **stronger password policies**.  
-- **🔍 [View Full Report](#)**
-
----
-
-### 3️⃣ **Mobile App Security Testing**  
-![Mobile App Security](path/to/your/mobile-image.jpg)  
-**Project**: Android App Security Review  
-- **Tools Used**: MobSF, Burp Suite, Frida  
-- **Objective**: Review app security for improper data storage and insecure API communications.  
-- **Key Findings**: Sensitive data in local storage, lack of SSL/TLS encryption.  
-- **Outcome**: **AES encryption** for local storage and enforced **SSL pinning** to secure communications.  
-- **🔍 [View Full Report](#)**
-
----
-
-### 4️⃣ **Wireless Network Penetration Testing**  
-![Wireless Testing](path/to/your/wireless-image.jpg)  
-**Project**: Penetration Test on WPA2 & WPA3 Networks  
-- **Tools Used**: Aircrack-ng, Reaver, Kismet  
-- **Objective**: Test the security of Wi-Fi networks within a corporate office environment.  
-- **Key Findings**: Misconfigured Wi-Fi settings, poor password complexity.  
-- **Outcome**: Upgraded to **WPA3** and enforced stronger network passwords.  
-- **🔍 [View Full Report](#)**
-
----
-
-## 🚀 **Why Work with Me?**  
-
-💡 **Creative & Results-Driven**: I bring fresh, **innovative approaches** to each project. Every system is different, and I tailor my tests to uncover hidden vulnerabilities.
-
-🔐 **Ethical Hacker with Integrity**: I follow the **highest standards** of ethical hacking and responsible disclosure. My aim is to improve the security posture of your system, not exploit it.
-
-⚙️ **End-to-End Security**: From **scanning** and **exploiting** vulnerabilities to providing **remediation** strategies and implementing the fixes, I offer **comprehensive security assessments**.
-
----
-
-## 📝 **Blog & Articles**  
-I’m passionate about educating the community and sharing knowledge. Check out my articles below:
-
-- **[The Power of Burp Suite for Pen Testing](#)**  
-- **[How to Harden Your Web App: A Step-by-Step Guide](#)**  
-- **[Exploring Network Vulnerabilities: A Deep Dive into Nmap](#)**  
-- **[Why Mobile App Security is More Critical Than Ever](#)**  
-
----
-
-## 📬 **Let’s Connect!**  
-
-📧 **Email**: [your.email@example.com](mailto:your.email@example.com)  
-🔗 **LinkedIn**: [linkedin.com/in/sneha-km](#)  
-🐦 **Twitter**: [@yourhandle](#)  
-💼 **GitHub**: [github.com/sneha-km](#)  
-📱 **Portfolio**: [www.snehakm.com](#)  
-
----
-
-## ⚖️ **Legal Disclaimer**  
-All of my work is done under **explicit consent** from the organization or individual requesting it. **Ethical hacking** is my profession, and I respect the boundaries of the law. Unauthorized access to systems is illegal and unethical.
-
----
-
-## 🌍 **Thanks for Visiting!**  
-Let's build a **secure future** together. Whether it's for **freelance work**, **collaborations**, or new opportunities, I’d love to connect with you. Stay safe online! 🔒
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sneha KM - Portfolio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+            color: #333;
+        }
+        .header {
+            text-align: center;
+            padding: 20px;
+            background-color: #5a5aad;
+            color: #fff;
+        }
+        .header img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 8px;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background: #fff;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2, h3 {
+            color: #5a5aad;
+        }
+        a {
+            color: #5a5aad;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .quote {
+            font-style: italic;
+            color: #555;
+            margin-top: 20px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <img src="https://res.cloudinary.com/people-matters/image/upload/fl_immutable_cache,w_624,h_351,q_auto,f_auto/v1591634442/1591634440.jpg" alt="Cybersecurity Hero">
+        <h1>💻 Sneha KM - Penetration Tester</h1>
+    </div>
+    <div class="container">
+        <h2>🌐 About Me</h2>
+        <p>Hi there! 👋 I'm <strong>Sneha KM</strong>, a <strong>Certified Ethical Hacker (CEH)</strong> and <strong>OSCP-certified Penetration Tester</strong>. My mission is simple: <em>Secure the Web, One Vulnerability at a Time</em>.</p>
+         <h2>📜 Education</h2>
+        <ul>
+            <li><strong>Bachelor of Computer Applications (BCA)</strong><br>St. Mary's College, Sulthan Bathery (2021 - 2024)</li>
+            <li><strong>Cyber Security Certification</strong><br>Synnefo Solution, 2024</li>
+        </ul>
+   <h2>🛠️ Professional Experience</h2>
+        <ul>
+            <li>
+                <strong>Internship</strong><br>
+                <strong>Synnefo Solution</strong> (2024)
+                <ul>
+                    <li>Conducted a <strong>1-month internship</strong> focusing on penetration testing and network security.</li>
+                    <li>Gained hands-on experience in identifying vulnerabilities and implementing remediation strategies.</li>
+                </ul>
+            </li>
+        </ul> 
+        <h2>🧰 Skills & Tools</h2>
+        <ul>
+            <li><strong>Skills:</strong> Penetration Testing, Vulnerability Assessment, Network Security, Web Application Security, Ethical Hacking</li>
+            <li><strong>Tools:</strong> Kali Linux, Metasploit, Burp Suite, Nmap, Wireshark</li>
+        </ul>
+     <h2>🌐 Projects</h2>
+        <ul>
+            <li>
+                <strong>Pregnancy Wellness App</strong> (Academic Project)<br>
+                - Developed an app aimed at promoting wellness during pregnancy.<br>
+                - Focused on user-centric features to ensure accessibility and effectiveness.
+            </li>
+        </ul>
+       <h2>🏆 Achievements</h2>
+        <ul>
+            <li><strong>Hall of Fame</strong><br>Recognized by <strong>Inflectra</strong> for exceptional contributions to cybersecurity.</li>
+        </ul>
+      <h2>📞 Let's Connect!</h2>
+        <ul>
+            <li><strong>LinkedIn:</strong> <a href="#">Your LinkedIn Profile</a></li>
+            <li><strong>GitHub:</strong> <a href="#">github.com/YourUsername</a></li>
+            <li><strong>Email:</strong> <a href="mailto:your.email@example.com">Your Email</a></li>
+        </ul>
+           <p class="quote">📌 "Security is not a product; it’s a process." - Bruce Schneier</p>
+    </div>
+</body>
+</html>
