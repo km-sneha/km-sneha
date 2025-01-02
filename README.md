@@ -39,7 +39,6 @@
                     <li>Metasploit</li>
                     <li>Burp Suite</li>
                     <li>Nmap</li>
-                    <li>Wireshark</li>
                 </ul>
             </li>
         </ul>        
