@@ -16,11 +16,11 @@
         </ul>     
         <h2>📜 Certifications</h2>
         <ul>
+            <li><strong>Networking Technologies</strong></li>
             <li><strong>Data Management and Machine Learning</strong></li>
             <li><strong>Quantum Computing</strong></li>
             <li><strong>Android Basics with Compose Course</strong></li>
             <li><strong>Generative AI Fundamentals with Google Cloud</strong></li>
-            <li><strong>Networking Technologies</strong></li>
         </ul>        
         <h2>🛠️ Skills & Tools</h2>
         <ul>
